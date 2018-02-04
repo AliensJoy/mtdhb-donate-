@@ -2,11 +2,11 @@
 
 <table>
   <tr>
-    <td>支付宝</td>
-    <td>微信</td>
+    <td width="50%">支付宝</td>
+    <td width="50%">微信</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/8413791/35776718-bd473406-09dc-11e8-806d-9db747222206.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/8413791/35776719-bfa8160c-09dc-11e8-842e-a93ca6eca139.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/8413791/35776745-3c31a620-09dd-11e8-894f-98c080538ead.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/8413791/35776762-6ffd63fe-09dd-11e8-803b-1bedb01d7907.png"></td>
   </tr>
 </table>
