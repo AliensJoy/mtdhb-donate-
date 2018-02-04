@@ -1,5 +1,7 @@
 # donate
 
+如果我们的项目对您有帮助，欢迎捐赠
+
 <table>
   <tr>
     <td width="50%">支付宝</td>
